@@ -127,3 +127,22 @@ nav ul li a:hover::after {
    font-weight: bold;
    align-content: center;
 }
+.icons {
+  margin-top: 25px;
+}
+.icons a {
+  display: inline-block;
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  background: #00a8cc;
+  background-color:#00a8cc;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 3px; /*dist bet icons*/
+  margin-bottom: 5px;
+}
